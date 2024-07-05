@@ -1,0 +1,6 @@
+{
+  "entity.creeper.primed": {
+    "sounds": ["peur"],
+    "subtitle": "subtitles.entity.creeper.primed"
+  }
+}
